@@ -1,5 +1,9 @@
 # some-stuffs
 
+The purpose of this repository is to share snippets of source code so you don't have to start from scratch...
+<br>
+Also share interesting codes found out there! 🤓
+
 ## Content
 
 - [Analog Clock](/analog-clock/) - HTML, CSS, Javascript
@@ -11,6 +15,9 @@
 <br>
 
 - [Image Zoom Effect](/zoom-image-on-hover/) - HTML, CSS
+  <br>
+
+- [Flexbox and Range Slider](/flexbox-and-range-slider/) - HTML, CSS, Javascript
   <br>
 
 ## Helpful Links

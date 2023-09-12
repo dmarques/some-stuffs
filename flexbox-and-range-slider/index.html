@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="./style.css" />
+
+    <title>Flexbox controlled by Range Slider</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="slider-box">
+        <label class="label-slider">Card Width:</label>
+        <input
+          type="range"
+          min="200"
+          max="500"
+          value="500"
+          class="slider"
+          id="slider"
+        />
+        <span id="slider_value"></span>
+      </div>
+      <div class="card" id="card">
+        <div class="name">
+          <input type="text" class="form-field" placeholder="Name" />
+        </div>
+        <div class="email">
+          <input type="text" class="form-field" placeholder="Email" />
+        </div>
+        <div class="btn">
+          <button type="submit" class="button form-field">Submit</button>
+        </div>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
