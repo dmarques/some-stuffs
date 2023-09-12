@@ -19,6 +19,7 @@ Also share interesting codes found out there! 🤓
 
 - [Flexbox and Range Slider](/flexbox-and-range-slider/) - HTML, CSS, Javascript
   <br>
+  <img src="./flexbox-and-range-slider/demo/flexbox-range-slider.gif" width="60%" >
 
 ## Helpful Links
 
