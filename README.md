@@ -10,6 +10,10 @@
 
 <br>
 
+- [Image Zoom Effect](/zoom-image-on-hover/) - HTML, CSS
+  <br>
+
 ## Helpful Links
 
 - [Favicon Generator](https://favicon.io/favicon-generator/)
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
