@@ -9,19 +9,20 @@
     <title>Flexbox controlled by Range Slider</title>
   </head>
   <body>
+    <div class="slider-box">
+      <label class="label-slider">Card Width:</label>
+      <input
+        type="range"
+        min="200"
+        max="500"
+        value="500"
+        class="slider"
+        id="slider"
+      />
+      <span id="slider_value"></span>
+    </div>
+
     <div class="wrapper">
-      <div class="slider-box">
-        <label class="label-slider">Card Width:</label>
-        <input
-          type="range"
-          min="200"
-          max="500"
-          value="500"
-          class="slider"
-          id="slider"
-        />
-        <span id="slider_value"></span>
-      </div>
       <div class="card" id="card">
         <div class="name">
           <input type="text" class="form-field" placeholder="Name" />

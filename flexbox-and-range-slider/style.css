@@ -12,6 +12,11 @@ body {
   background-color: #fcf2f2;
 }
 
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
 .label-slider {
   font-family: Verdana;
   font-size: 16px;
@@ -23,6 +28,8 @@ body {
   align-items: center;
   justify-content: center;
   gap: 10px;
+  position: fixed;
+  top: 250px;
 }
 
 .card {
@@ -34,6 +41,7 @@ body {
   padding: 10px;
   background-color: #fff;
   gap: 10px;
+  position: relative;
 }
 
 .form-field {
